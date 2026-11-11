@@ -1,0 +1,6 @@
+{
+  "name": "China Garden Dhaka",
+  "description": "Authentic Chinese & Pan-Asian dining in Dhaka. Order food online, explore the visual menu gallery, and reserve private dining & banquet tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
